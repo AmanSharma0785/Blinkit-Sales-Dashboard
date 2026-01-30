@@ -1,5 +1,5 @@
 # Blinkit Sales Analysis Dashboard
-![Blinkit Dashboard](Media\Dashboard.png)
+![Blinkit Dashboard](Media/Dashboard.png)
 ## Project Overview
 This project presents an **interactive sales analysis dashboard for Blinkit (India’s Last Minute App)**.  
 The dashboard is designed to provide **deep insights into sales performance, customer preferences, outlet distribution, and product categories** using visually rich and easy-to-understand charts.
@@ -53,7 +53,7 @@ The dataset is structured and optimized for dashboard analysis.
 
 ## Key KPIs
 **The dashboard highlights the following key performance indicators (KPIs):**
-![Blinkit Dashboard](Media\KPI.png)
+![Blinkit Dashboard](Media/KPI.png)
 - **Total Sales:** $1.20M  
 - **Average Sales:** $141  
 - **Total Number of Items:** 8523  
@@ -66,7 +66,7 @@ These KPIs provide a quick snapshot of overall business performance.
 ## Dashboard Insights
 
 ### Sales Trend by Outlet Establishment Year
-![Blinkit Dashboard](Media\establishment.png)
+![Blinkit Dashboard](Media/establishment.png)
 - Sales show steady growth after 2012  
 - Peak sales observed around 2018  
 - Minor decline and stabilization in recent years  
@@ -74,7 +74,7 @@ These KPIs provide a quick snapshot of overall business performance.
 ---
 
 ### Sales by Outlet Size
-![Blinkit Dashboard](Media\size.png)
+![Blinkit Dashboard](Media/size.png)
 - High outlet size contributes the maximum sales  
 - Medium outlets show moderate contribution  
 - Small outlets contribute comparatively less  
@@ -82,7 +82,7 @@ These KPIs provide a quick snapshot of overall business performance.
 ---
 
 ### Sales by Outlet Location
-![Blinkit Dashboard](Media\location_type.png)
+![Blinkit Dashboard](Media/location_type.png)
 - Tier 3 locations generate the highest sales  
 - Tier 2 follows closely  
 - Tier 1 contributes relatively lower sales  
@@ -90,7 +90,7 @@ These KPIs provide a quick snapshot of overall business performance.
 ---
 
 ### Item Type Analysis
-![Blinkit Dashboard](Media\type.png)
+![Blinkit Dashboard](Media/type.png)
 Top performing categories:
 - Fruits & Vegetables  
 - Snack Foods  
@@ -105,14 +105,14 @@ Lowest performing categories:
 ---
 
 ### Fat Content Analysis
-![Blinkit Dashboard](Media\fat.png)
+![Blinkit Dashboard](Media/fat.png)
 - Regular fat items contribute nearly 65% of total sales  
 - Low-fat items contribute around 35%  
 
 ---
 
 ### Outlet Type Performance
-![Blinkit Dashboard](Media\outlet_type.png)
+![Blinkit Dashboard](Media/outlet_type.png)
 - Supermarket Type 1 shows strong performance  
 - Grocery Stores contribute moderately  
 - Supermarket Type 2 & 3 show varying trends  
@@ -130,12 +130,12 @@ These filters allow users to explore insights interactively and analyze specific
 ---
 
 ## Dashboard Preview
-![Blinkit Dashboard](Media\Dashboard.png)
+![Blinkit Dashboard](Media/Dashboard.png)
 
 ---
 
 ## Project Structure
-![Blinkit Dashboard](Media\structure.png)
+![Blinkit Dashboard](Media/structure.png)
 
 ---
 
