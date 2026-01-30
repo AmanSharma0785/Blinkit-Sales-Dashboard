@@ -66,7 +66,7 @@ These KPIs provide a quick snapshot of overall business performance.
 ## Dashboard Insights
 
 ### Sales Trend by Outlet Establishment Year
-![Blinkit Dashboard](Media/establishment.png)
+![Blinkit Dashboard](Media/Establishment.png)
 - Sales show steady growth after 2012  
 - Peak sales observed around 2018  
 - Minor decline and stabilization in recent years  
@@ -91,21 +91,20 @@ These KPIs provide a quick snapshot of overall business performance.
 
 ### Item Type Analysis
 ![Blinkit Dashboard](Media/type.png)
-Top performing categories:
+-**Top performing categories:**
 - Fruits & Vegetables  
 - Snack Foods  
 - Household Items  
 - Frozen Foods  
 - Dairy  
 
-Lowest performing categories:
+**Lowest performing categories:**
 - Seafood  
 - Breakfast items  
 
 ---
 
 ### Fat Content Analysis
-![Blinkit Dashboard](Media/fat.png)
 - Regular fat items contribute nearly 65% of total sales  
 - Low-fat items contribute around 35%  
 
